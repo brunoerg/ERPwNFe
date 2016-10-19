@@ -1,5 +1,5 @@
-# EmissorNFe
-Projeto open source de um sistema de emissão de nota fiscal eletronica com a API NFePHP.
+# ERP com EmissorNFe
+Projeto open source de um sistema erp completo com emissão de nota fiscal eletronica com a API NFePHP.
 
 <strong>História do sistema:</strong>
 Não desenvolvi ele por inteiro, recebi esse sistema, principalmente o front-end de um amigo que me disse ter esse projeto abandonado, logo, ele me deu o script e a partir de então, tentei ao máximo deixar o back-end melhor, atualizei a API da NFe, corrigi bugs, etc. Por se tratar de um sistema complexo ainda tem bugs e vamos cada dia mais juntos corrigindo o sistema.
