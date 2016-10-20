@@ -1,0 +1,9 @@
+
+[09:13:21][Usuario Desconhecido][66.249.64.176][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:34:46][Usuario Desconhecido][177.70.142.40][www.inovaminas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:34:46][Usuario Desconhecido][177.70.142.40][www.inovaminas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:34:56][][177.70.142.40][www.inovaminas.com.br/sistemas/erp/Login]> O usuario entrou.
+[16:40:27][Usuario Desconhecido][179.209.220.226][www.inovaminas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:40:27][Usuario Desconhecido][179.209.220.226][www.inovaminas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:40:39][][179.209.220.226][www.inovaminas.com.br/sistemas/erp/Login]> O usuario entrou.
+[16:42:21][Administrador][179.209.220.226][www.inovaminas.com.br/sistemas/erp/Clientes/Adicionar]> Cadastro na tabela clientes; query(INSERT INTO `clientes` (`nome`,`cidade`,`fone`,`cpf`,`endereco`,`pagamento`,`vendedor`) VALUES ('testando 123','5200050','(11) 5894-7877','201.440.787-00','ASDF ASDFFF','1','0'))

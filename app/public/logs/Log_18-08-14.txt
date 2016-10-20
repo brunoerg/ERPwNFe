@@ -1,0 +1,4 @@
+
+[01:30:48][Usuario Desconhecido][177.96.64.190][obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:30:48][Usuario Desconhecido][177.96.64.190][obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:32:30][][177.96.64.190][obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

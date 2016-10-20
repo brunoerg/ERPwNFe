@@ -1,0 +1,10 @@
+
+[14:38:56][Usuario Desconhecido][186.231.118.36][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:38:56][Usuario Desconhecido][186.231.118.36][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:41:51][Usuario Desconhecido][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:41:51][Usuario Desconhecido][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:42:24][][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[15:43:43][Administrador][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[15:44:41][Administrador][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/3]> Deu entrada de 1 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[15:44:51][Administrador][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Estoque/Saida/3]> Deu saida de 1 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[15:45:21][Administrador][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Catalogo/Editar/3]> Alteracao na tabela produtos na id=3; query(UPDATE `produtos` SET `nome`= 'Monitor LCD 17 P Sony E415',`quantidade`= '10',`unidade`= 'pc',`peso`= '1',`compra`= '349.90',`venda`= '478.90',`distribuidor`= '1' WHERE id=3)

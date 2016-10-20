@@ -1,0 +1,16 @@
+
+[01:39:12][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Fiado/Adicionar]> Selecione a ID de um Balanco
+[01:40:53][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vencimentos/Adicionar]> Cadastro na tabela vencimentos; query(INSERT INTO `vencimentos` (`cedente`,`valor`,`vencimento`,`fornecedor`) VALUES ('Obvio Sistemas INC','300.00','03-06-2014','1'))
+[01:42:18][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vencimentos/Pago/2]> Alteracao na tabela vencimentos para pago a id=2; query(UPDATE vencimentos SET pago=1 WHERE id=2)
+[01:47:20][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Pedido/Adicionar]> Cadastro na tabela pedidoCompra; query(INSERT INTO `pedidoCompra` (`compra`) VALUES ('1'))
+[01:47:35][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[01:49:24][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Fornecedores/Adicionar]> Cadastro na tabela fornecedores; query(INSERT INTO `fornecedores` (`nome`,`cidade`,`fone`,`cnpj`,`email`) VALUES ('Teste','Três Corações','','',''))
+[01:49:29][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[01:49:38][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[01:49:59][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Pedido/Adicionar]> Cadastro na tabela pedidoCompra; query(INSERT INTO `pedidoCompra` (`compra`) VALUES ('1'))
+[02:17:16][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[02:20:35][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Balanco/Criar]> Cadastrou o Balanco para 02-06-2014 do vendedor de id 0
+[02:20:35][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Balanco/Criar]> Criou o Balanco de id 4
+[10:07:15][Usuario Desconhecido][177.129.201.146][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:07:16][Usuario Desconhecido][177.129.201.146][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:07:35][][177.129.201.146][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

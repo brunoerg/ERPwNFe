@@ -1,0 +1,6 @@
+
+[10:17:56][][187.7.114.52][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[10:18:01][][201.10.28.96][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[10:19:51][Administrador][201.10.28.96][www.obviosistemas.com.br/sistemas/erp/Catalogo/Editar/3]> Alteracao na tabela produtos na id=3; query(UPDATE `produtos` SET `nome`= 'Monitor LCD 17 P Sony E415',`quantidade`= '10',`unidade`= 'pc',`peso`= '1',`compra`= '349.90',`venda`= '478.90',`distribuidor`= '0' WHERE id=3)
+[10:20:19][Administrador][201.10.28.96][www.obviosistemas.com.br/sistemas/erp/Estoque/Saida/3]> Deu saida de 3 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[10:21:20][Administrador][201.10.28.96][www.obviosistemas.com.br/sistemas/erp/NFe/Criar]> Cadastro na tabela nfe; query(INSERT INTO `nfe` (`natOp`,`indPag`,`serie`,`dEmi`,`dSaiEnt`,`tpNF`,`tpImp`,`tpEmis`,`tpAmb`,`finNFe`,`destinatario`,`fiscoComplementares`,`contribuinteComplementares`,`veiculo`,`frete`,`opTransportador`,`cMunFG`,`numero`,`modelo`,`cUf`,`cDV`,`chave`) VALUES ('0','0','1','13-05-2014','13-05-2014','1','1','1','2','1','0','','','0','9','0','3169307','1','55','17','5','17140500000000000000550010000000011000000005'))

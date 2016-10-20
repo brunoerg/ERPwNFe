@@ -1,0 +1,6 @@
+
+[22:05:11][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login/Logout]> O usu�rio saiu.
+[22:05:18][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login]> O usuario entrou.
+[23:11:41][Usuario Desconhecido][177.177.117.159][www.inovaminas.com.br/nfe/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[23:12:43][Usuario Desconhecido][177.177.117.159][www.inovaminas.com.br/nfe/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[23:15:42][][177.177.117.159][www.inovaminas.com.br/nfe/Login]> O usuario entrou.

@@ -1,0 +1,3 @@
+
+[20:33:42][][187.110.210.115][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[20:34:53][Administrador][187.110.210.115][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.

@@ -1,0 +1,17 @@
+
+[13:05:53][Usuario Desconhecido][179.192.27.42][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[13:05:54][Usuario Desconhecido][179.192.27.42][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[13:09:11][][179.192.27.42][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[13:15:34][Administrador][179.192.27.42][www.obviosistemas.com.br/sistemas/erp/NFe/Criar]> Cadastro na tabela nfe; query(INSERT INTO `nfe` (`natOp`,`indPag`,`serie`,`dEmi`,`dSaiEnt`,`tpNF`,`tpImp`,`tpEmis`,`tpAmb`,`finNFe`,`destinatario`,`fiscoComplementares`,`contribuinteComplementares`,`veiculo`,`frete`,`opTransportador`,`cMunFG`,`numero`,`modelo`,`cUf`,`cDV`,`chave`) VALUES ('6205','0','1','16-06-2014','16-06-2014','1','1','1','1','1','','','','0','9','0','3169307','6','55','17','5','17140600000000000000550010000000061000000005'))
+[13:48:30][Usuario Desconhecido][189.83.153.139][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[13:48:30][Usuario Desconhecido][189.83.153.139][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[13:49:45][][189.83.153.139][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[18:12:51][Usuario Desconhecido][189.73.130.59][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:12:51][Usuario Desconhecido][189.73.130.59][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:28:27][Usuario Desconhecido][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:28:27][Usuario Desconhecido][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:30:57][][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[22:34:07][Administrador][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Estoque/Saida/3]> Deu saida de 2 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[22:36:50][Administrador][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[22:38:52][Administrador][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Boletos/Adicionar]> Cadastro na tabela boletos; query(INSERT INTO `boletos` (`cliente`,`valor`,`emissao`,`vencimento`,`NFe`) VALUES ('1','R$ 450,00','02-06-2014','31-07-2014',''))
+[22:40:22][Administrador][189.52.170.11][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco

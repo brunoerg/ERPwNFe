@@ -1,0 +1,20 @@
+
+[01:32:23][Usuario Desconhecido][186.208.67.171][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:32:23][Usuario Desconhecido][186.208.67.171][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[05:47:19][Usuario Desconhecido][66.249.65.46][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[05:49:31][Usuario Desconhecido][66.249.65.72][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:11:19][Usuario Desconhecido][66.249.65.59][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:08:08][Usuario Desconhecido][200.139.141.126][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:08:08][Usuario Desconhecido][200.139.141.126][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:09:17][][200.139.141.126][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[20:14:27][Administrador][200.139.141.126][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[20:14:54][Administrador][200.139.141.126][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[22:52:31][Usuario Desconhecido][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:52:31][Usuario Desconhecido][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:54:19][][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[22:57:15][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/4]> Deu entrada de 3.2 do produto 4 ('') no estoque.
+[22:59:03][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Cartao/Adicionar]> Selecione uma Bandeira
+[22:59:10][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Cartao/Adicionar]> Selecione uma Bandeira
+[22:59:17][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Cartao/Adicionar]> Selecione uma Bandeira
+[23:00:02][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Rotas/Adicionar]> Selecione um Vendedor
+[23:00:31][Administrador][187.127.108.156][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.

@@ -1,0 +1,2 @@
+
+[10:54:37][Usuario Desconhecido][177.18.0.152][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!

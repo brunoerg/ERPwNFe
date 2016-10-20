@@ -1,0 +1,12 @@
+
+[15:37:13][Usuario Desconhecido][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:37:13][Usuario Desconhecido][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:37:31][][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[15:45:02][][201.11.240.173][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[17:23:09][][201.11.240.173][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[17:25:19][Administrador][201.11.240.173][www.obviosistemas.com.br/sistemas/erp/Vencimentos/Adicionar]> Cadastro na tabela vencimentos; query(INSERT INTO `vencimentos` (`cedente`,`valor`,`vencimento`) VALUES ('teste','0.4','01-05-2014'))
+[18:29:18][Usuario Desconhecido][201.11.240.173][obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:29:18][Usuario Desconhecido][201.11.240.173][obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:29:24][][201.11.240.173][obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[20:01:07][][186.251.195.1][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[21:36:05][][179.180.177.246][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

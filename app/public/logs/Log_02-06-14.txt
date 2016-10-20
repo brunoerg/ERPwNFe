@@ -1,0 +1,13 @@
+
+[16:26:49][Usuario Desconhecido][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:26:49][Usuario Desconhecido][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:28:58][][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[16:32:29][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[16:32:37][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[16:32:51][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[16:34:09][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Vendas/Adicionar]> Selecione a ID de um Balanco
+[16:41:09][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Pedido/Adicionar]> Cadastro na tabela pedidoCompra; query(INSERT INTO `pedidoCompra` (`compra`) VALUES ('1'))
+[16:41:22][Administrador][200.140.183.124][www.obviosistemas.com.br/sistemas/erp/Pedido/Adicionar]> Cadastro na tabela pedidoCompra; query(INSERT INTO `pedidoCompra` (`compra`) VALUES ('3'))
+[16:54:29][Usuario Desconhecido][187.4.205.10][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:54:30][Usuario Desconhecido][187.4.205.10][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:55:04][][187.4.205.10][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

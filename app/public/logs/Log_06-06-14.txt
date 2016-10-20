@@ -1,0 +1,3 @@
+
+[11:48:46][Usuario Desconhecido][186.213.53.171][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:48:49][Usuario Desconhecido][186.213.53.171][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!

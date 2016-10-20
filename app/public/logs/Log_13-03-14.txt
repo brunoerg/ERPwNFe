@@ -1,0 +1,2 @@
+
+[05:42:20][Administrador][189.80.25.130][www.inovaminas.com.br/nfe/Vendas/Adicionar]> Selecione a ID de um Balanco

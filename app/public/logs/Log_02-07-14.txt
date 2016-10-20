@@ -1,0 +1,8 @@
+
+[03:16:37][Usuario Desconhecido][66.249.64.28][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:59:12][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:59:12][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:59:18][][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:11:39][Administrador][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[18:32:25][Usuario Desconhecido][66.249.64.33][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:04:19][Usuario Desconhecido][66.249.64.243][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!

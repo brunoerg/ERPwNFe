@@ -1,0 +1,17 @@
+
+[12:04:32][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:04:35][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:06:39][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Fornecedores/Adicionar]> Cadastro na tabela fornecedores; query(INSERT INTO `fornecedores` (`nome`,`cidade`,`fone`,`cnpj`,`email`) VALUES ('Luiz','','','',''))
+[12:07:19][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[12:08:00][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[12:08:00][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Alteracao na tabela login na id=1; query(UPDATE `login` SET `nome`= 'Administrador',`login`= 'admin',`senha`= 'e8d95a51f3af4a3b134bf6bb680a213a' WHERE id=1)
+[12:08:01][Usuario Desconhecido][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Usuarios]> Usuario desconhecido tentou acessar o sistema com a senha incorreta! Senha Tentada: 62cc2d8b4bf2d8728120d052163a77df
+[12:08:28][Administrador][177.14.250.42][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:10:33][Administrador][177.14.250.63][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:10:50][Administrador][177.14.250.63][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[12:11:11][Administrador][177.14.250.63][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[12:11:11][Administrador][177.14.250.63][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Alteracao na tabela login na id=1; query(UPDATE `login` SET `nome`= 'Administrador',`login`= 'admin',`senha`= '62cc2d8b4bf2d8728120d052163a77df' WHERE id=1)
+[12:11:12][Usuario Desconhecido][177.14.250.63][www.obviosistemas.com.br/sistemas/erp/Usuarios]> Usuario desconhecido tentou acessar o sistema com a senha incorreta! Senha Tentada: e8d95a51f3af4a3b134bf6bb680a213a
+[13:24:40][Usuario Desconhecido][69.171.230.112][obviosistemas.com.br/sistemas/erp/login]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[13:24:54][][186.243.13.152][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[13:26:13][Administrador][177.200.103.3][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

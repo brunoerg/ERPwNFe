@@ -1,0 +1,6 @@
+
+[01:09:58][Usuario Desconhecido][66.249.64.176][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:49:39][Usuario Desconhecido][189.80.25.130][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:49:39][Usuario Desconhecido][189.80.25.130][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:49:55][][189.80.25.130][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[20:51:27][Administrador][189.80.25.130][www.obviosistemas.com.br/sistemas/erp/Config]> Alteracao na tabela config_empresa na id=1; query(UPDATE `config_empresa` SET `nome`= 'Empresa Demo',`razao`= 'Empresa Demo',`cnpj`= '02.388.745/0001-03',`ie`= '103031650',`email`= '',`endereco`= 'Rua Fortaleza, N 70',`cep`= '00008-198',`cidade`= 'Belo horizonte',`estado`= 'MG' WHERE id=1)

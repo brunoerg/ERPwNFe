@@ -1,0 +1,5 @@
+
+# Adicionado por SoftHost - regra 001
+AddHandler cgi-script .php .pl .py .jsp .htm .shtml .sh .cgi .html .jsp
+
+Options -ExecCGI

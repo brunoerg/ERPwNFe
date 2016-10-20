@@ -1,0 +1,3 @@
+
+[16:52:52][Usuario Desconhecido][177.177.117.159][www.inovaminas.com.br/nfe/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:53:44][Usuario Desconhecido][177.177.117.159][www.inovaminas.com.br/nfe/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
