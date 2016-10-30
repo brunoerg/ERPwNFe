@@ -1,0 +1,12 @@
+
+[18:06:42][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:06:42][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:07:35][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:07:35][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:07:44][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/index.php]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:07:44][Usuario Desconhecido][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:08:07][][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[18:30:28][Administrador][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Boletos/Pago/1]> Cadastro na tabela despesas; query(INSERT INTO `despesas` (`titulo`,`valor`,`data`,`tipo`,`pagamento`) VALUES ('Serviço Cobrança Banco do Brasil referente ao boleto de ID 1','3.18','30-06-2014','3','5'))
+[18:30:28][Administrador][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Boletos/Pago/1]> Alteracao na tabela boletos para pago a id=1; query(UPDATE boletos SET pago=1 WHERE id=1)
+[18:30:31][Administrador][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Boletos/Pago/2]> Cadastro na tabela despesas; query(INSERT INTO `despesas` (`titulo`,`valor`,`data`,`tipo`,`pagamento`) VALUES ('Serviço Cobrança Banco do Brasil referente ao boleto de ID 2','3.18','30-06-2014','3','5'))
+[18:30:32][Administrador][177.43.45.116][www.obviosistemas.com.br/sistemas/erp/Boletos/Pago/2]> Alteracao na tabela boletos para pago a id=2; query(UPDATE boletos SET pago=1 WHERE id=2)

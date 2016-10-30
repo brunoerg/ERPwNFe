@@ -1,0 +1,10 @@
+
+[20:20:25][Usuario Desconhecido][177.200.103.3][www.inovaminas.com.br/nfe/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:20:25][Usuario Desconhecido][177.200.103.3][www.inovaminas.com.br/nfe/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:51:34][][177.200.103.3][www.inovaminas.com.br/nfe/Login]> O usuario entrou.
+[20:58:25][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Usuarios/Editar-4]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[21:57:28][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Vendas/Adicionar]> Selecione a ID de um Balanco
+[21:57:49][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Pedido/Adicionar]> Cadastro na tabela pedidoCompra; query(INSERT INTO `pedidoCompra` (`compra`) VALUES ('506'))
+[21:59:09][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Funcao/Adicionar]> Cadastro na tabela funcoes; query(INSERT INTO `funcoes` (`nome`,`comissao`) VALUES ('Vendedor Externo','1'))
+[22:02:45][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login/Logout]> O usu�rio saiu.
+[22:10:24][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login]> O usuario entrou.

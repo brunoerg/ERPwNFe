@@ -1,0 +1,2 @@
+
+[13:05:54][Usuario Desconhecido][66.249.64.33][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!

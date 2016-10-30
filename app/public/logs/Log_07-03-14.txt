@@ -1,0 +1,3 @@
+
+[02:13:44][Usuario Desconhecido][177.200.103.3][www.inovaminas.com.br/nfe/]> Usuario desconhecido tentou acessar o sistema com a senha incorreta! Senha Tentada: 202cb962ac59075b964b07152d234b70
+[02:14:03][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login]> O usuario entrou.

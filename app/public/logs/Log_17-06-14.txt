@@ -1,0 +1,35 @@
+
+[00:00:21][Usuario Desconhecido][179.253.54.255][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[00:00:21][Usuario Desconhecido][179.253.54.255][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[00:02:29][][179.253.54.255][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[00:12:38][Administrador][179.253.54.255][www.obviosistemas.com.br/sistemas/erp/NFe/Criar]> Cadastro na tabela nfe; query(INSERT INTO `nfe` (`natOp`,`indPag`,`serie`,`dEmi`,`dSaiEnt`,`tpNF`,`tpImp`,`tpEmis`,`tpAmb`,`finNFe`,`destinatario`,`fiscoComplementares`,`contribuinteComplementares`,`veiculo`,`frete`,`opTransportador`,`cMunFG`,`numero`,`modelo`,`cUf`,`cDV`,`chave`) VALUES ('1116','0','1','17-06-2014','17-06-2014','1','1','1','2','1','','','','0','9','0','3169307','7','55','17','2','17140600000000000000550010000000071000000002'))
+[01:13:02][Usuario Desconhecido][201.87.243.1][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:13:02][Usuario Desconhecido][201.87.243.1][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:16:12][][201.87.243.1][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[01:16:47][Administrador][201.87.243.1][www.obviosistemas.com.br/sistemas/erp/Boletos/Adicionar]> Cadastro na tabela boletos; query(INSERT INTO `boletos` (`cliente`,`valor`,`emissao`,`vencimento`,`NFe`) VALUES ('-0.2','-0.6','','',''))
+[10:02:12][Usuario Desconhecido][189.111.254.239][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:02:12][Usuario Desconhecido][189.111.254.239][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:04:24][][189.111.254.239][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[10:05:17][Administrador][189.111.254.239][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/3]> Deu entrada de 2 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[11:36:55][Usuario Desconhecido][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:36:55][Usuario Desconhecido][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[11:37:32][][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:09:13][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Error/2/app]> Erro numero 2 (404). Pagina app nao encontrada!
+[12:15:04][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Error/2/app]> Erro numero 2 (404). Pagina app nao encontrada!
+[12:15:12][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Error/2/app]> Erro numero 2 (404). Pagina app nao encontrada!
+[12:24:03][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[12:24:05][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[12:34:24][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/Destinatarios/Cadastrar]> Cadastro na tabela destinatarios; query(INSERT INTO `destinatarios` (`xNome`,`CNPJ`,`CPF`,`IE`,`email`,`xLgr`,`nro`,`xCpl`,`xBairro`,`cMun`,`UF`,`CEP`,`cPais`,`fone`) VALUES ('teste','1213165','','','','','','','','0','','','1058',''))
+[12:34:30][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/NFe/Criar]> Cadastro na tabela nfe; query(INSERT INTO `nfe` (`natOp`,`indPag`,`serie`,`dEmi`,`dSaiEnt`,`tpNF`,`tpImp`,`tpEmis`,`tpAmb`,`finNFe`,`destinatario`,`fiscoComplementares`,`contribuinteComplementares`,`veiculo`,`frete`,`opTransportador`,`cMunFG`,`numero`,`modelo`,`cUf`,`cDV`,`chave`) VALUES ('5104','0','1','17-06-2014','17-06-2014','1','1','1','2','1','1','','','0','9','0','3169307','8','55','17','0','17140600000000000000550010000000081000000000'))
+[12:34:40][Administrador][189.27.107.9][www.obviosistemas.com.br/sistemas/erp/NFe/Produtos/8]> Cadastro na tabela produtosNFe; query(INSERT INTO `produtosNFe` (`produto`,`CFOP`,`vUnCom`,`qCom`,`orig`,`NFe`,`vProd`) VALUES ('3','5104','478.90','5','0','8','2394.5'))
+[12:59:06][Usuario Desconhecido][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[12:59:07][Usuario Desconhecido][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[12:59:18][][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[13:00:11][Administrador][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[13:07:51][Administrador][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[13:35:27][Administrador][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[13:56:09][Administrador][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[14:13:22][Administrador][177.87.113.36][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[19:24:27][Administrador][177.93.161.6][www.obviosistemas.com.br/sistemas/erp/Estoque/Saida/4]> Deu saida de 1 do produto 4 ('teste') no estoque.
+[19:24:37][Administrador][177.93.161.6][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/4]> Deu entrada de 6 do produto 4 ('teste') no estoque.
+[19:24:49][Administrador][177.93.161.6][www.obviosistemas.com.br/sistemas/erp/Estoque/Saida/4]> Deu saida de 1.2 do produto 4 ('teste') no estoque.

@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /erp/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l 
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+RewriteRule ^([^/]*)$ index.php?var1=$1 [L,NC]
+RewriteRule ^([^/]*)/([^/]*)$ index.php?var1=$1&var2=$2 [L,NC]
+RewriteRule ^([^/]*)/([^/]*)/([^/]*)$ index.php?var1=$1&var2=$2&var3=$3 [L,NC]
+

@@ -1,0 +1,39 @@
+
+[01:09:55][Usuario Desconhecido][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:09:56][Usuario Desconhecido][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:10:27][][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[01:11:09][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[01:11:27][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[01:11:27][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[01:11:36][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[01:11:36][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[01:11:51][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[01:11:51][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[01:12:02][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[01:12:02][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[01:13:48][Administrador][177.40.191.8][www.obviosistemas.com.br/sistemas/erp/Catalogo/Editar/4]> Alteracao na tabela produtos na id=4; query(UPDATE `produtos` SET `nome`= 'teste',`quantidade`= '1',`unidade`= 'UM',`peso`= '2',`compra`= '100',`venda`= '230',`distribuidor`= '2' WHERE id=4)
+[01:54:32][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:54:36][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[02:12:29][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[02:12:29][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[02:14:19][][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[02:17:07][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[02:17:07][Usuario Desconhecido][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[02:17:28][][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[02:18:28][Administrador][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[02:18:31][Administrador][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[02:19:56][Administrador][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Error/2/Produtos]> Erro numero 2 (404). Pagina Produtos nao encontrada!
+[02:20:09][Administrador][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Error/2/Produto]> Erro numero 2 (404). Pagina Produto nao encontrada!
+[02:20:13][Administrador][201.55.238.21][www.obviosistemas.com.br/sistemas/erp/Error/2/Produtos]> Erro numero 2 (404). Pagina Produtos nao encontrada!
+[09:17:12][Usuario Desconhecido][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[09:17:12][Usuario Desconhecido][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[09:17:31][][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[09:19:10][Administrador][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Catalogo/Adicionar]> Cadastro na tabela produtos; query(INSERT INTO `produtos` (`nome`,`quantidade`,`unidade`,`peso`,`compra`,`venda`,`distribuidor`) VALUES ('Tenis nike','1','cx','10','151','200','2'))
+[09:19:42][Administrador][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/8]> Deu entrada de 10 do produto 8 ('Tenis nike') no estoque.
+[10:16:15][Administrador][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[10:21:41][Administrador][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[10:28:29][Administrador][186.223.29.190][www.obviosistemas.com.br/sistemas/erp/Error/2/app]> Erro numero 2 (404). Pagina app nao encontrada!
+[17:58:20][Usuario Desconhecido][200.19.48.34][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:02:13][Usuario Desconhecido][187.64.134.157][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:02:14][Usuario Desconhecido][187.64.134.157][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:03:59][][187.64.134.157][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

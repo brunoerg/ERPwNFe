@@ -1,0 +1,8 @@
+
+[08:59:47][Usuario Desconhecido][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[08:59:47][Usuario Desconhecido][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[09:04:50][][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[09:05:50][Administrador][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Estoque/Entrada/3]> Deu entrada de 1 do produto 3 ('Monitor LCD 17 P Sony E415') no estoque.
+[09:08:47][Administrador][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[09:09:45][Administrador][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[09:27:49][Administrador][189.111.213.121][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.

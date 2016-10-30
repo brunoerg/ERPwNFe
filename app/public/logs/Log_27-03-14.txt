@@ -1,0 +1,4 @@
+
+[01:09:59][Usuario Desconhecido][177.177.253.225][www.inovaminas.com.br/nfe/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:09:59][Usuario Desconhecido][177.177.253.225][www.inovaminas.com.br/nfe/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[01:10:25][][177.177.253.225][www.inovaminas.com.br/nfe/Login]> O usuario entrou.

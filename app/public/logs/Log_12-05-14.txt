@@ -1,0 +1,5 @@
+
+[14:45:51][Usuario Desconhecido][201.10.28.96][obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:45:51][Usuario Desconhecido][201.10.28.96][obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[14:45:57][][201.10.28.96][obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[14:46:32][Administrador][201.10.28.96][obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.

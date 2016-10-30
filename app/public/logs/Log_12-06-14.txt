@@ -1,0 +1,5 @@
+
+[16:44:37][Usuario Desconhecido][189.107.132.174][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:44:38][Usuario Desconhecido][189.107.132.174][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[16:44:44][][189.107.132.174][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[16:49:55][Administrador][189.107.132.174][www.obviosistemas.com.br/sistemas/erp/Fiado/Adicionar]> Selecione a ID de um Balanco

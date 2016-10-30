@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loca",
+				"location"
+			],
+			[
+				"rece",
+				"Recebeus"
+			],
+			[
+				"Rece",
+				"Recebeu"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"dad",
+				"dadosPedido"
+			],
+			[
+				"li",
+				"linha"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"k",
+				"keys"
+			],
+			[
+				"cliet",
+				"Cliente"
+			],
+			[
+				"produ",
+				"produtos"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"f",
+				"file2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"P",
+				"Pedido"
+			],
+			[
+				"Clie",
+				"Cliente"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"array_p",
+				"array_push"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WebServiceController.php",
+			"settings":
+			{
+				"buffer_size": 16057,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Controller.php",
+			"settings":
+			{
+				"buffer_size": 8196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ClientesController.php",
+			"settings":
+			{
+				"buffer_size": 15277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/WayDistSys/app/config/info.php",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/WayDistSys/app/view/webservice/index.php",
+			"settings":
+			{
+				"buffer_size": 818,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/.gitignore",
+		"/Applications/MAMP/htdocs/WayDistSys/app/config/database.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/public/webservice/Pedido_6_12_3.xml",
+		"/Applications/MAMP/htdocs/WayDistSys/app/public/webservice/Pedido_5_12_4.xml",
+		"/Applications/MAMP/htdocs/WayDistSys/app/public/webservice/Pedido_5_12_1.xml",
+		"/Applications/MAMP/htdocs/WayDistSys/app/controller/NFeController.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/controller/ClientesController.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/controller/IndexController.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/controller/Controller.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/view/right.php",
+		"/Applications/MAMP/htdocs/WayDistSys/app/view/index/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"produtospedidos",
+			"makePost",
+			"$linha[\"location\"]",
+			"Localizacao(",
+			"makePost",
+			"prod",
+			"makePost",
+			"makePost(",
+			"if ($keys!=\"info\" && $keys!=\"produtos\" && $keys!=\"\") {",
+			"makePost",
+			"makePost(",
+			"makePost",
+			"makePost(",
+			"makePost",
+			"makePost(",
+			"Pedidos",
+			"}\n",
+			"transferirPedido",
+			"Pedidos",
+			"makePost(",
+			"transferirRecebeu",
+			"Transferir(",
+			"font-size:14px;",
+			"ft:15px;",
+			"cidade",
+			"<?php\nclass WebServiceController extends Controller {\n	function __construct() {\n		parent::__construct ();\n\n		$this->dir = \"app/public/webservice/\";\n	}\n\n	function index() {\n		if($_GET[\"var2\"]==\"xml64\") {\n			$this->ArquivoXml(true);\n		}elseif($_GET[\"var2\"]==\"Transferir\") {\n			$this->Transferir();\n		}else{\n\n			$this->lerXmls();\n			$this->view->render ( 'webservice/index' );\n		}\n		\n	}\n\n	protected function ArquivoXml(){\n		\n		$xml = base64_decode($_POST[\"xml\"]);\n		\n		$nome = $_POST[\"nome\"];\n\n		\n\n		$file = $this->dir.$nome;\n\n		if(file_put_contents($file, $xml)){\n			echo \"Arquivo Enviado com Sucesso!\";\n		}else{\n			echo \"Erro ao Enviar o Arquivo ao WebService. Tente novamente mais Tarde!\";\n		}\n	}\n\n	protected function lerXmls(){\n		\n		\n		$html =\"\"; \n\n		$diretorio = dir($this->dir);\n\n\n		while($arquivo = $diretorio -> read()){\n\n			$file = $this->dir.$arquivo;\n\n			if (is_file($file)) {\n\n				$xml =  simplexml_load_file($file);\n\n				$name = explode(\"_\", $arquivo);\n				\n				switch ($name[0]) {\n					case 'Cliente':\n					$html .= $this->Clientes($xml,$arquivo,$name);\n					break;\n					\n					case 'Pedido':\n					$html .= $this->Pedidos($xml,$arquivo,$name);\n					break;\n					\n					case 'Recebeu':\n					$html .= $this->Recebidos($xml,$arquivo,$name);\n					break;\n				}\n\n				\n			}\n		}\n\n		ksort($this->Vendedor);\n		foreach ($this->Vendedor as $key => $values) {\n\n			$vendedor = $this->pega_dados(\"funcionarios\",$key);\n			$html .= '\n			<fieldset style=\"width: 30%; min-width: 200px; float: left; padding: 10px;\">\n\n			<div class=\"widget\">\n			<div class=\"title\">\n			<img src=\"'.Folder.'images/icons/dark/money2.png\" alt=\"\" class=\"titleIcon\" />\n			<h6>'.$vendedor[\"nome\"].'</h6>\n			</div>\n			<div  style=\"padding: 10px;\">\n			';\n			foreach ($values as $tipo => $value) {\n				$html .= \"\n				<h6 style='font-size:18px; padding:20px;' class='exp'>\".$tipo.\":</h6>\n				<div  style='padding-left: 20px;'>\";\n				foreach ($value as  $arqs) {\n\n					$html .= $arqs;\n				}\n				$html.=\"\n				</div>\n				<hr>\";\n			}\n\n			$html .= '\n\n			</div>\n			</div>\n\n			</fieldset>';\n		}\n\n		$this->view->arquivos = $html;\n\n	}\n\n	protected function getObj($obj,$i=5){\n		$x=$i+$i;\n		for ($p=0; $p < $x; $p++) { \n\n			$space .= \"&nbsp;\";\n\n		}\n		foreach ($obj as $keys => $values) {        \n			$html.= $space.$keys.\"=>\".$values.\"<br>\";\n			if (get_object_vars($values)) {\n				$html.= $this->getObj($values,$x);\n			}\n		}\n\n		return $html;\n	}\n\n\n	protected function makePost($tipo,$obj){\n\n		switch ($tipo) {\n			case 'Cliente':\n			foreach ($obj as $keys => $values) { \n				$_POST[$keys] = strval($obj->$keys);\n			}\n			break;\n\n			default:\n				# code...\n			break;\n		}\n\n\n		return true;\n	}\n\n\n	protected function Clientes($xml,$arquivo,$name){\n\n		$html = \"\n		<ul>\n		<li style='list-style: none;  padding:5px;' class='exp'>\n		<h6 style='font-size:14px;'>Nome: \".$xml->nome.\" \n		<span tipo='\".$name[0].\"' arquivo='\".$arquivo.\"' title='Transferir' class='tipS Transferir'>\n		<img src='\". Folder.\"images/icons/control/32/communication.png' alt='' style='vertical-align: 0px;margin-top:-10px;margin-left:-20px;padding-right:10px;float:left;'/> \n		</span></h6>\n		</li>\n		<div>\";\n\n		foreach($xml as $key=>$value){\n			switch ($key) {\n\n				case \"nome\":break;\n				case \"vendedor\":break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'pagamento':\n				$pagamento = array(\"Selecione uma forma de Pagamento\",\"A Vista\", \"Boleto\", \"Cheque\", \"Fiado\");\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($pagamento[(int) $value]).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n\n				default:\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n			}\n\n		}\n\n		$html .=\"\n		</div>\n		</ul>\";\n		$this->Vendedor[$name[1]][\"Clientes Novos\"][$arquivo]= $html;\n	}\n	protected function Pedidos($xml,$arquivo,$name){\n		$html .= $arquivo.\"<br>\";\n		foreach($xml as $key=>$value){\n\n			$html .= $key.\"=>\".$value.\"<br>\";\n			if ($lol = get_object_vars($value)) {\n				$html.= $this->getObj($value);\n\n			}\n		}\n\n		$html = \"\n		<ul>\n		<li style='list-style: none;  padding:5px;' class='exp'>\n		<h6 style='font-size:14px;'>Bloco: \".$xml->info->bloco.\" Numero: \".$xml->info->numero.\" \n		<span tipo='\".$name[0].\"' arquivo='\".$arquivo.\"' title='Transferir' class='tipS Transferir'>\n		<img src='\". Folder.\"images/icons/control/32/communication.png' alt='' style='vertical-align: 0px;margin-top:-10px;margin-left:-20px;padding-right:10px;float:left;'/> \n		</span></h6>\n		</li>\n		<div>\";\n\n		foreach($xml as $key=>$value){\n			switch ($key) {\n\n				case 'info':\n				$html.=\"<li style='list-style: none;  padding:5px;' class='exp'>\n				<h6 style='font-size:14px;'>Informa&ccedil;&otilde;es:</h6>\n				</li>\n				<div>\";\n				$html .= $this->Infos($value);\n				$html .=\"\n				</div>\";\n				break;\n				case 'produtos':\n				$html.=\"<li style='list-style: none;  padding:5px;' class='exp'>\n				<h6 style='font-size:14px;'>Produtos:</h6>\n				</li>\n				<div>\";\n				$html .= $this->Produtos($value);\n				$html .=\"\n				</div>\";\n				break;\n\n				case 'cheques':\n				$html.=\"<li style='list-style: none;  padding:5px;' class='exp'>\n				<h6 style='font-size:14px;'>Cheques Recebidos:</h6>\n				</li>\n				<div>\";\n				$html .= $this->Cheques($value);\n				$html .=\"\n				</div>\";\n				break;\n\n				case 'recebeu':\n				$html.=\"<li style='list-style: none;  padding:5px;' class='exp'>\n				<h6 style='font-size:14px;'>Recebeu:</h6>\n				</li>\n				<div>\";\n				$html .= $this->RecebeuFiado($value);\n				$html .=\"\n				</div>\";\n				break;\n\n\n				default:\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n			}\n\n		}\n\n		$html .=\"\n		</div>\n		</ul>\";\n\n\n\n		$this->Vendedor[$name[1]][\"Pedidos Novos\"][$arquivo]= $html;\n	}\n\n\n\n	protected function Infos($obj){\n		foreach($obj as $key=>$value){\n			switch ($key) {\n\n				case \"pago\":break;\n				case \"chqs\":break;\n				case \"vendedor\":break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'pagamento':\n				$pagamento = array(\"A Vista\", \"A Prazo\", \"Boleto\", \"Cheque\");\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($pagamento[(int) $value]).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n\n				case 'vencimento':\n				if ($value!=\"0\") {\n\n					$html .=\"\n					<li style='list-style: none;  padding-left:15px;'>\n					<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n					</li>\n					\";\n				}\n				break;\n\n				default:\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n			}\n\n		}\n\n		return $html;\n	}\n\n	protected function Cheques($obj){\n\n	}\n	protected function Produtos($obj){\n		foreach($obj as $key=>$value){\n			switch ($key) {\n\n				case \"pago\":break;\n				case \"chqs\":break;\n				case \"vendedor\":break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'pagamento':\n				$pagamento = array(\"A Vista\", \"A Prazo\", \"Boleto\", \"Cheque\");\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($pagamento[(int) $value]).\"</span><br>\n				</li>\n				\";\n				break;\n				case 'cidade':\n\n				$cidade = $this->pega_dados_codigo(\"municipios\",$value);\n				$value = $cidade[\"nome\"];\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n\n				case 'vencimento':\n				if ($value!=\"0\") {\n\n					$html .=\"\n					<li style='list-style: none;  padding-left:15px;'>\n					<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n					</li>\n					\";\n				}\n				break;\n\n				default:\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n			}\n\n		}\n\n		return $html;\n	}\n\n	protected function RecebeuFiado($obj){\n\n	}\n\n\n\n\n\n\n	protected function Recebidos($xml,$arquivo,$name){\n		$html = \"\n		<ul>\n		<li style='list-style: none;  padding:5px;' class='exp'>\n		<h6 style='font-size:14px;'>ID Pedido: \".$xml->pedido.\" \n		<span tipo='\".$name[0].\"' arquivo='\".$arquivo.\"' title='Transferir' class='tipS Transferir'>\n		<img src='\". Folder.\"images/icons/control/32/communication.png' alt='' style='vertical-align: 0px;margin-top:-10px;margin-left:-20px;padding-right:10px;float:left;'/> \n		</span></h6>\n		</li>\n		<div>\";\n\n		foreach($xml as $key=>$value){\n			switch ($key) {\n\n				case \"pedido\":break;\n				case 'valor':\n\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": R$ \".number_format(((int)$value),2,\",\",\".\").\"</span><br>\n				</li>\n				\";\n				break;\n\n				default:\n				$html .=\"\n				<li style='list-style: none;  padding-left:15px;'>\n				<span>\".ucwords($key).\": \".ucwords($value).\"</span><br>\n				</li>\n				\";\n				break;\n			}\n\n		}\n\n		$html .=\"\n		</div>\n		</ul>\";\n		$this->Vendedor[$name[1]][\"Fiados Recebidos\"][$arquivo]= $html;\n	}\n\n\n\n\n	protected function Transferir(){\n		switch ($_POST[\"tipo\"]) {\n			case 'Cliente':\n			$this->transferirCliente();\n			break;\n			case 'Pedido':\n			$this->transferirPedido();\n			break;\n			case 'Recebeu':\n			$this->transferirRecebeu();\n			break;	\n		}\n	}\n\n	protected function transferirCliente(){\n		$file = $this->dir.$_POST[\"arquivo\"];\n		$file2 = $this->dir.\"updated/\".$_POST[\"arquivo\"];\n\n		if (is_file($file)) {\n\n			$xml =  simplexml_load_file($file);\n			$this->makePost($_POST[\"tipo\"],$xml);\n			unset($_POST[\"arquivo\"]);\n			unset($_POST[\"tipo\"]);\n			//print_r($_POST);\n			if ($this->cadastrar(\"clientes\")) {\n				if($this->mover($file,$file2)){\n					echo \"ok\";\n				}\n\n			}else{\n				print_r($_POST);\n			}\n		}\n	}\n\n\n	protected function transferirRecebeu(){\n		$file = $this->dir.$_POST[\"arquivo\"];\n		$file2 = $this->dir.\"updated/\".$_POST[\"arquivo\"];\n\n		if (is_file($file)) {\n\n			$xml =  simplexml_load_file($file);\n			$this->makePost($_POST[\"tipo\"],$xml);\n			unset($_POST[\"arquivo\"]);\n			unset($_POST[\"tipo\"]);\n			//print_r($_POST);\n			if ($this->cadastrar(\"recebeuPedido\")) {\n				if($this->mover($file,$file2)){\n					echo \"ok\";\n				}\n\n			}else{\n				print_r($_POST);\n			}\n		}\n	}\n\n\n\n\n	private function mover($arquivo,$arquivo2){\n\n		if (is_file($arquivo )) {\n			if(!rename($arquivo, $arquivo2)){\n				echo \"Erro ao mover o Arquivo: $arquivo para: $arquivo2 !\";\n				return false;\n			}\n			return true;\n		}else{\n			echo \"Arquivo $arquivo inexistente\";\n			return false;\n		}\n\n	}\n\n\n\n}",
+			"Pedidos(",
+			"RecebeuFiado",
+			"lerXmls",
+			"makePost",
+			"getObj",
+			",$dir",
+			"$dir",
+			"transferirCliente()",
+			"# code...",
+			"$this->pagamento",
+			"tipo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WebServiceController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4155,
+								4155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10622.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7772,
+								7772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ClientesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15055,
+								14980
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 340.0,
+						"translation.y": 8887.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/WayDistSys/app/config/info.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/MAMP/htdocs/WayDistSys/app/view/webservice/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "Way.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,5 @@
+
+[02:20:31][Usuario Desconhecido][66.249.64.222][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[07:13:01][Usuario Desconhecido][66.249.64.217][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[07:19:55][Usuario Desconhecido][66.249.64.222][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[20:29:53][Usuario Desconhecido][66.249.64.222][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!

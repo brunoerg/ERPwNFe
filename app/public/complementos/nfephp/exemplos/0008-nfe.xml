@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+<infNFe Id="NFe35110258716523000119550010000000081227046732" versao="2.00">
+<ide>
+<cUF>35</cUF>
+<cNF>22704673</cNF>
+<natOp>VENDA DE PRODUTO</natOp>
+<indPag>1</indPag>
+<mod>55</mod>
+<serie>1</serie>
+<nNF>8</nNF>
+<dEmi>2011-02-14</dEmi>
+<tpNF>1</tpNF>
+<cMunFG>3550308</cMunFG>
+<tpImp>1</tpImp>
+<tpEmis>1</tpEmis>
+<cDV>2</cDV>
+<tpAmb>2</tpAmb>
+<finNFe>1</finNFe>
+<procEmi>3</procEmi>
+<verProc>2.0.6</verProc>
+</ide>
+<emit>
+<CNPJ>58716523000119</CNPJ>
+<xNome>FIMATEC TEXTIL LTDA</xNome>
+<xFant>FIMATEC</xFant>
+<enderEmit>
+<xLgr>RUA DOS PATRIOTAS</xLgr>
+<nro>897</nro>
+<xCpl>ARMAZEM 42</xCpl>
+<xBairro>IPIRANGA</xBairro>
+<cMun>3550308</cMun>
+<xMun>Sao Paulo</xMun>
+<UF>SP</UF>
+<CEP>04207040</CEP>
+<cPais>1058</cPais>
+<xPais>BRASIL</xPais>
+<fone>1120677300</fone>
+</enderEmit>
+<IE>112006603110</IE>
+<IM>95095870</IM>
+<CNAE>0131380</CNAE>
+<CRT>3</CRT>
+</emit>
+<dest>
+<CNPJ>99999999000191</CNPJ>
+<xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+<enderDest>
+<xLgr>AV HENRY FORD</xLgr>
+<nro>2155</nro>
+<xBairro>VILA PRUDENTE</xBairro>
+<cMun>3550308</cMun>
+<xMun>Sao Paulo</xMun>
+<UF>SP</UF>
+<CEP>03109001</CEP>
+<cPais>1058</cPais>
+<xPais>BRASIL</xPais>
+<fone>1129148399</fone>
+</enderDest>
+<IE/>
+<email>ivo@plasticosnn.com.br</email>
+</dest>
+<entrega>
+<CNPJ>48940837000147</CNPJ>
+<xLgr>RUA TESTE</xLgr>
+<nro>1000</nro>
+<xCpl>cpl 1000</xCpl>
+<xBairro>BAIRRO TESTE</xBairro>
+<cMun>3550308</cMun>
+<xMun>Sao Paulo</xMun>
+<UF>SP</UF>
+</entrega>
+<det nItem="1">
+<prod>
+<cProd>2301BCB00</cProd>
+<cEAN>97899072644160</cEAN>
+<xProd>LINKSHOES TINTO C/AMAC. S.T. 1,33M</xProd>
+<NCM>60063200</NCM>
+<CFOP>5101</CFOP>
+<uCom>KG</uCom>
+<qCom>80.3000</qCom>
+<vUnCom>22.7100</vUnCom>
+<vProd>1823.61</vProd>
+<cEANTrib/>
+<uTrib>KG</uTrib>
+<qTrib>80.3000</qTrib>
+<vUnTrib>22.7100</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<ICMS>
+<ICMS20>
+<orig>0</orig>
+<CST>20</CST>
+<modBC>3</modBC>
+<pRedBC>61.11</pRedBC>
+<vBC>709.20</vBC>
+<pICMS>18.00</pICMS>
+<vICMS>127.66</vICMS>
+</ICMS20>
+</ICMS>
+<IPI>
+<cEnq>999</cEnq>
+<IPINT>
+<CST>55</CST>
+</IPINT>
+</IPI>
+<PIS>
+<PISAliq>
+<CST>01</CST>
+<vBC>1823.61</vBC>
+<pPIS>1.65</pPIS>
+<vPIS>30.09</vPIS>
+</PISAliq>
+</PIS>
+<COFINS>
+<COFINSAliq>
+<CST>01</CST>
+<vBC>1823.61</vBC>
+<pCOFINS>7.60</pCOFINS>
+<vCOFINS>138.59</vCOFINS>
+</COFINSAliq>
+</COFINS>
+</imposto>
+<infAdProd>GRAFITE F02091 31284 lote 4861/B</infAdProd>
+</det>
+<det nItem="2">
+<prod>
+<cProd>2301BCB00</cProd>
+<cEAN>97899072621727</cEAN>
+<xProd>LINKSHOES TINTO C/AMAC. S.T. 1,33M</xProd>
+<NCM>60063200</NCM>
+<CFOP>5101</CFOP>
+<uCom>KG</uCom>
+<qCom>42.9400</qCom>
+<vUnCom>22.7100</vUnCom>
+<vProd>975.17</vProd>
+<cEANTrib/>
+<uTrib>KG</uTrib>
+<qTrib>42.9400</qTrib>
+<vUnTrib>22.7100</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<ICMS>
+<ICMS20>
+<orig>0</orig>
+<CST>20</CST>
+<modBC>3</modBC>
+<pRedBC>61.11</pRedBC>
+<vBC>379.24</vBC>
+<pICMS>18.00</pICMS>
+<vICMS>68.26</vICMS>
+</ICMS20>
+</ICMS>
+<IPI>
+<cEnq>999</cEnq>
+<IPINT>
+<CST>55</CST>
+</IPINT>
+</IPI>
+<PIS>
+<PISAliq>
+<CST>01</CST>
+<vBC>975.17</vBC>
+<pPIS>1.65</pPIS>
+<vPIS>16.09</vPIS>
+</PISAliq>
+</PIS>
+<COFINS>
+<COFINSAliq>
+<CST>01</CST>
+<vBC>975.17</vBC>
+<pCOFINS>7.60</pCOFINS>
+<vCOFINS>74.11</vCOFINS>
+</COFINSAliq>
+</COFINS>
+</imposto>
+<infAdProd>PRETO F04293 31278 lote 4861/A</infAdProd>
+</det>
+<det nItem="3">
+<prod>
+<cProd>2301BCB00</cProd>
+<cEAN>97899072621727</cEAN>
+<xProd>LINKSHOES TINTO C/AMAC. S.T. 1,33M</xProd>
+<NCM>60063200</NCM>
+<CFOP>5101</CFOP>
+<uCom>KG</uCom>
+<qCom>121.9100</qCom>
+<vUnCom>22.7100</vUnCom>
+<vProd>2768.58</vProd>
+<cEANTrib/>
+<uTrib>KG</uTrib>
+<qTrib>121.9100</qTrib>
+<vUnTrib>22.7100</vUnTrib>
+<indTot>1</indTot>
+</prod>
+<imposto>
+<ICMS>
+<ICMS20>
+<orig>0</orig>
+<CST>20</CST>
+<modBC>3</modBC>
+<pRedBC>61.11</pRedBC>
+<vBC>1076.70</vBC>
+<pICMS>18.00</pICMS>
+<vICMS>193.81</vICMS>
+</ICMS20>
+</ICMS>
+<IPI>
+<cEnq>999</cEnq>
+<IPINT>
+<CST>55</CST>
+</IPINT>
+</IPI>
+<PIS>
+<PISAliq>
+<CST>01</CST>
+<vBC>2768.58</vBC>
+<pPIS>1.65</pPIS>
+<vPIS>45.68</vPIS>
+</PISAliq>
+</PIS>
+<COFINS>
+<COFINSAliq>
+<CST>01</CST>
+<vBC>2768.58</vBC>
+<pCOFINS>7.60</pCOFINS>
+<vCOFINS>210.41</vCOFINS>
+</COFINSAliq>
+</COFINS>
+</imposto>
+<infAdProd>PRETO F04293 31278 lote 4861/A</infAdProd>
+</det>
+<total>
+<ICMSTot>
+<vBC>2165.14</vBC>
+<vICMS>389.73</vICMS>
+<vBCST>0.00</vBCST>
+<vST>0.00</vST>
+<vProd>5567.36</vProd>
+<vFrete>0.00</vFrete>
+<vSeg>0.00</vSeg>
+<vDesc>0.00</vDesc>
+<vII>0.00</vII>
+<vIPI>0.00</vIPI>
+<vPIS>91.86</vPIS>
+<vCOFINS>423.11</vCOFINS>
+<vOutro>0.00</vOutro>
+<vNF>5567.36</vNF>
+</ICMSTot>
+</total>
+<transp>
+<modFrete>0</modFrete>
+<transporta>
+<CNPJ>58716523000119</CNPJ>
+<xNome>FIMATEC TEXTIL LTDA</xNome>
+<IE>112006603110</IE>
+<xEnder>RUA DOS PATRIOTAS</xEnder>
+<xMun>Sao Paulo</xMun>
+<UF>SP</UF>
+</transporta>
+<vol>
+<qVol>18</qVol>
+<esp>VOLUMES</esp>
+<pesoL>245.150</pesoL>
+<pesoB>252.350</pesoB>
+</vol>
+</transp>
+<cobr>
+<fat>
+<nFat>000009803</nFat>
+<vOrig>5567.36</vOrig>
+<vLiq>5567.36</vLiq>
+</fat>
+<dup>
+<nDup>9803-1</nDup>
+<dVenc>2011-03-16</dVenc>
+<vDup>1855.79</vDup>
+</dup>
+<dup>
+<nDup>9803-2</nDup>
+<dVenc>2011-03-31</dVenc>
+<vDup>1855.79</vDup>
+</dup>
+<dup>
+<nDup>9803-3</nDup>
+<dVenc>2011-04-15</dVenc>
+<vDup>1855.78</vDup>
+</dup>
+</cobr>
+<infAdic>
+<infAdFisco>SAIDA COM SUSPENSAO DO IPI CONFORME ART 29 DA LEI 10.637 BC RED EM 61,11 CFE ART 52, ANEXO II RICMS/00 BC RED EM 61,11 CFE ART 52, ANEXO II RICMS/00</infAdFisco>
+</infAdic>
+</infNFe>
+</NFe>

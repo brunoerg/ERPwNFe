@@ -1,0 +1,15 @@
+
+[10:09:49][Usuario Desconhecido][179.199.56.61][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:09:49][Usuario Desconhecido][179.199.56.61][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[12:58:08][Usuario Desconhecido][177.195.71.145][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[12:58:08][Usuario Desconhecido][177.195.71.145][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[12:58:34][][177.195.71.145][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[13:05:35][Administrador][177.195.71.145][www.obviosistemas.com.br/sistemas/erp/NFe/Criar]> Cadastro na tabela nfe; query(INSERT INTO `nfe` (`natOp`,`indPag`,`serie`,`dEmi`,`dSaiEnt`,`tpNF`,`tpImp`,`tpEmis`,`tpAmb`,`finNFe`,`destinatario`,`fiscoComplementares`,`contribuinteComplementares`,`veiculo`,`frete`,`opTransportador`,`cMunFG`,`numero`,`modelo`,`cUf`,`cDV`,`chave`) VALUES ('5101','0','1','11-06-2014','11-06-2014','1','1','1','2','1','1','dasdsad','dsda','0','9','0','3169307','5','55','17','8','17140600000000000000550010000000051000000008'))
+[13:07:09][Administrador][177.195.71.145][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[18:02:33][Usuario Desconhecido][186.247.173.2][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:02:34][Usuario Desconhecido][186.247.173.2][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:15:22][Usuario Desconhecido][186.247.173.2][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[18:15:23][Usuario Desconhecido][186.247.173.2][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:40:08][Usuario Desconhecido][201.14.75.216][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:40:09][Usuario Desconhecido][201.14.75.216][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[22:42:18][][201.14.75.216][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

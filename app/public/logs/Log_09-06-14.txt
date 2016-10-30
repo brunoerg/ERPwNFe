@@ -1,0 +1,29 @@
+
+[09:54:36][Usuario Desconhecido][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[09:54:36][Usuario Desconhecido][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[09:54:53][][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[09:57:38][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Fiado/Adicionar]> Selecione a ID de um Balanco
+[10:00:17][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[10:28:04][Usuario Desconhecido][201.41.69.182][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:28:04][Usuario Desconhecido][201.41.69.182][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[10:28:19][][201.41.69.182][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[10:42:21][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[10:49:01][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Editar-1]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[11:21:53][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[11:25:26][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[11:25:26][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[11:27:10][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[11:27:33][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[11:27:33][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> As senhas n&atilde;o conferem!
+[11:30:58][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Catalogo/Adicionar]> Cadastro na tabela produtos; query(INSERT INTO `produtos` (`nome`,`quantidade`,`unidade`,`peso`,`compra`,`venda`,`distribuidor`) VALUES ('tese','1','','','','0.7','1'))
+[14:23:40][Administrador][179.213.131.75][www.obviosistemas.com.br/sistemas/erp/Login/Logout]> O usu�rio saiu.
+[15:57:05][Usuario Desconhecido][177.159.113.37][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:57:05][Usuario Desconhecido][177.159.113.37][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:57:44][][177.159.113.37][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[15:58:08][Administrador][177.159.113.37][www.obviosistemas.com.br/sistemas/erp/Usuarios/Novo]> Preencha todos os dados corretamente e cuide bem de sua senha.
+[15:59:32][Usuario Desconhecido][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:59:33][Usuario Desconhecido][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[15:59:48][][191.240.201.38][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.
+[17:53:32][Usuario Desconhecido][177.64.206.73][www.obviosistemas.com.br/sistemas/erp/]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[17:53:33][Usuario Desconhecido][177.64.206.73][www.obviosistemas.com.br/sistemas/erp/Index]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[17:56:27][][177.64.206.73][www.obviosistemas.com.br/sistemas/erp/Login]> O usuario entrou.

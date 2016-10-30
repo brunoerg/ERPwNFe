@@ -1,0 +1,5 @@
+
+[04:16:32][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Clientes/Adicionar]> Cadastro na tabela clientes; query(INSERT INTO `clientes` (`nome`,`cidade`,`fone`,`cpf`,`endereco`,`pagamento`,`vendedor`) VALUES ('Jean Luiz','5220405','','','','1','0'))
+[16:11:44][Usuario Desconhecido][177.200.103.3][www.inovaminas.com.br/nfe/Clientes/XML]> Usuario desconhecido tentou acessar o sistema sem a verificação necessária!
+[17:07:55][Administrador][177.200.103.3][www.inovaminas.com.br/nfe/Login/Logout]> O usu�rio saiu.
+[17:33:40][Administrador][189.80.25.130][www.inovaminas.com.br/nfe/Login]> O usuario entrou.
