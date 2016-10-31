@@ -18,12 +18,17 @@ MySQL
 2. Ajustar dados do banco de dados em **APP/CONFIG/DATABASE.PHP**.
 3. Alterar URL local em **APP/CONFIG/PATHS.PHP** conforme modelo abaixo:
 ```
+//url = apenas oNomeQueVoceColocou
 define('URL','http://'.$_SERVER['SERVER_NAME'].'/app/');
+//folder = oNomeQueVoceColocou/app
 define('Folder','http://'.$_SERVER['SERVER_NAME'].'/app/public/');
 ```
+
 4. Alterar o nome da pasta ERP pelo nome de sua pasta onde instalou o sistema na www no arquivo **htaccess**. Alterar especificamente:
 ```
-RewriteBase /app/ 
+
+RewriteBase /oNomeQueVoceColocou/app/ 
+
 ```
 5. Configurar NFE no arquivo **app/public/complementos/nfephp/config/config.php**
 
